@@ -25,6 +25,54 @@ h2 {
   margin-bottom: 4rem;
 }
 
+.image1 {
+  width: 20vw;
+  position: sticky;
+  top: 30;
+}
+
+.fox1 {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+.image2 {
+  width: 90vw;
+  position: sticky;
+  top: 30;
+}
+
+.fox2 {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+.image3 {
+  width: 20vw;
+  position: sticky;
+  top: 30;
+}
+
+.fox3 {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+.image4 {
+  width: 90vw;
+  position: sticky;
+  top: 30;
+}
+
+.fox4 {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
 p {
   font-family: 'Indie Flower', cursive;
   font-size: 1.5rem;
