@@ -31,7 +31,7 @@ h2 {
   width: 90vw;
   position: sticky;
   top: 30;
-  left: 50px
+  left: 20vw;
 }
 
 .fox1 {
@@ -56,7 +56,7 @@ h2 {
   width: 90vw;
   position: sticky;
   top: 30;
-  left: 50px
+  left: 20vw;
 }
 
 .fox3 {
@@ -94,3 +94,4 @@ p {
   max-width: 1000px;
   padding: 0 1.5rem;
 }
+
